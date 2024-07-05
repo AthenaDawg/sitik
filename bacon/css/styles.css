@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    font-size: 200px;
+}
+
+img:hover {
+    background-color: gold;
+}
+
+.bacon {
+    background-color: green;
+    height: 130px
+}
+
+.broccoli {
+    background-color: red;
+    height: 130px
+}
+
+.circular {
+    border-radius: 100%;
+}
